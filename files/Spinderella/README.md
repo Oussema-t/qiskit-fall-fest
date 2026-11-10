@@ -1,6 +1,6 @@
 # Team Spinderella: HQS NMR challenge (Qiskit Fall Fest 2026)
 
-**Presentation:** `Spinderella_NMR_presentation.pptx`
+**Presentation:** `Spinderella_NMR_presentation.pdf`
 
 ## Results
 
